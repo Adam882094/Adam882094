@@ -6,7 +6,7 @@ Hi my name is Adam and I'm curently living in Wasaga Beach, Ontario. I'm current
 
 Skills: C# / C++ / Java / Haxe / SQL / HTML / CSS / JS / PHP
 
-- 🔭 I’m currently working on a platform game for Unity with Sprite Animation 
+- 🔭 I’m currently working on a 2D platform game for Unity with Sprite Animation 
 - 📫 How to reach me: Email: 00adambrennan00@gmail.com  
 
 
