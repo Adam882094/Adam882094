@@ -2,7 +2,7 @@
 #### Computer Science - Computer Programming Student
 ![Computer Science - Computer Programming Student](https://www.lakeheadgeorgian.ca/wp-content/uploads/2018/02/logo2.png)
 
-Hi my name is Adam and I'm curently living in Wasaga Beach, Ontario. I'm currently a 3rd year student at Lakehead-Georgian for Honours Bachelor of Science (Computer Science) with Computer Programming Diploma.
+Hello, my name is Adam Brennan and I'm currently a 3rd year student at Lakehead-Georgian for Honours Bachelor of Science (Computer Science) with Computer Programming Diploma.
 
 Skills: C# / C++ / Java / Haxe / SQL / HTML / CSS / JS / PHP
 
