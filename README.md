@@ -4,10 +4,10 @@
 
 Hello, my name is Adam Brennan and I'm currently a 3rd year student at Lakehead-Georgian for Honours Bachelor of Science (Computer Science) with Computer Programming Diploma.
 
-Skills: C# / C++ / Java / Haxe / SQL / HTML / CSS / JS / PHP
+Skills: C# / C++ / Java / Haxe / SQL / MongoDb / TypeScript / HTML / CSS / JS / PHP
+Experience using: Unity, HaxeFlixel, Express, NodeJs
 
-- 🔭 I’m currently working on a 2D platform game for Unity with Sprite Animation 
-- 📫 How to reach me: Email: 00adambrennan00@gmail.com  
+- 📫 How to reach me: Email 00adambrennan00@gmail.com  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Adam882094)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adam-brennan-profile/)  
