@@ -2,11 +2,11 @@
 #### Computer Science - Computer Programming Student
 ![Computer Science - Computer Programming Student](https://www.lakeheadgeorgian.ca/wp-content/uploads/2018/02/logo2.png)
 
-Hello, my name is Adam Brennan and I'm currently a 3rd year student at Lakehead-Georgian for Honours Bachelor of Science (Computer Science) with Computer Programming Diploma.
+Hello, my name is Adam Brennan and I'm currently a 4th year student at Lakehead-Georgian for Honours Bachelor of Science (Computer Science) with Computer Programming Diploma.
 
 Skills: C# / C++ / Java / Haxe / SQL / MongoDb / TypeScript / HTML / CSS / JS / PHP.
 
-Experience using: Unity, HaxeFlixel, Express, NodeJs
+Experience using: Express, NodeJs, HaxeFlixel, Unity
 
 - 📫 How to reach me: Email 00adambrennan00@gmail.com  
 
