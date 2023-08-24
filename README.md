@@ -1,8 +1,9 @@
 ### Hi there 👋, Adam Brennan  
-#### Computer Science - Computer Programming Student
+#### Software Developer
 ![Computer Science - Computer Programming Student](https://www.lakeheadgeorgian.ca/wp-content/uploads/2018/02/logo2.png)
 
-Hello, my name is Adam Brennan and I'm currently a 4th year student at Lakehead-Georgian for Honours Bachelor of Science (Computer Science) with Computer Programming Diploma.
+Hello, my name is Adam Brennan
+I have an Honours Bachelor of Science in Computer Science from Lakehead University and a Diploma in Computer Programming from Georgian College
 
 Skills: C# / C++ / Java / Haxe / SQL / MongoDb / TypeScript / HTML / CSS / JS / PHP.
 
